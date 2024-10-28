@@ -30,7 +30,7 @@ Pod::Spec.new do |spec|
     spec.author             = { "TutelarTech" => "it@tutelar.io" }
     spec.ios.deployment_target = "13.0"
   
-    spec.source       = { :git => "https://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@github.com/Tutelar-IT/ios_sense_sdk.git", :tag => "#{spec.version}" }
+    spec.source       = { :git => "https://github.com/Tutelar-IT/ios_sense_sdk.git", :tag => "#{spec.version}" }
     spec.ios.vendored_frameworks = "XCframework/tutelar_sense.xcframework"
 
     spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' } 
