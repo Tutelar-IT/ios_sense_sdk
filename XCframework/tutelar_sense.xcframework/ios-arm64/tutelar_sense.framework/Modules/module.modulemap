@@ -1,0 +1,11 @@
+framework module tutelar_sense {
+  umbrella header "tutelar_sense.h"
+  export *
+
+  module * { export * }
+}
+
+module tutelar_sense.Swift {
+  header "tutelar_sense-Swift.h"
+  requires objc
+}
