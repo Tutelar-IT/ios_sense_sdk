@@ -8,7 +8,7 @@ Sense is a device intelligence and identification tool. This tool collects a com
 
 ### Step 1 - Installation
 ```
-pod 'tutelar-sense', '~> 0.0.2'
+pod 'tutelar-sense', '~> 0.0.4'
 pod update
 ```
 ### Step 2 - Import SDK
@@ -26,6 +26,11 @@ To initialize the SDK add the below line of code with the public key you retriev
     }
 
 ```
+#### Sense Config Information
+
+If you pass senseInfo as true in above config means, it will return addtional Information like Request ID, First seen, Last seen, IP Address with SenseID. Otherwise it will return only SenseID and Request .
+
+
 ### Step 3 - Implement  Delegate Method
 Use the below code to obtain the Device result.
 ```
