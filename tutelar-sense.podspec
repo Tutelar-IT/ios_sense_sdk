@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'tutelar-sense'
-  s.version      = '0.0.1'
+  s.version      = '0.0.3'
   s.summary      = 'Sense iOS SDK'
   s.description  = <<-DESC
                     Senes iOS SDK - Prevent illegal bot activity. Filter the good from the bad visitors, with precision
@@ -22,7 +22,6 @@ Pod::Spec.new do |s|
     }
   s.author       = { "Tutelar-IT" => "it@tutelar.io" }
   s.source       = { :git => "https://github.com/Tutelar-IT/ios_sense_sdk.git", :tag => s.version.to_s }
-
   s.vendored_frameworks = 'tutelar_sense.xcframework'
   s.platform     = :ios, '13.0'
 end
