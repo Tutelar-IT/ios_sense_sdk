@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jRSsl11UwDGlQ+0WEXQDa3XUQZo=
+		4YlgWse5XprV+fRPofecBawowGk=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AGEMuoGRpZ134ey9RYQLg5nAAUQ=
+		5Omqh1jhG/Rxo6EJvQLjRqOd1Mg=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AGEMuoGRpZ134ey9RYQLg5nAAUQ=
+		5Omqh1jhG/Rxo6EJvQLjRqOd1Mg=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8S5zvcn/k/V5wYsrCTrGf0RZ5iQ=
+		ADD3HFIBW9LSGPkYUQ0yrKeacTE=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		gfWAnp+h8S60nT9CX3BxrhU2KYU=
+		ArKe+CDAy1B9zmpsXoHvnQefhD0=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		pECupaejjJi3fwuEb52wFarFvow=
+		A7ksVB+LXubyZ8p6QZtelarIenM=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pECupaejjJi3fwuEb52wFarFvow=
+		A7ksVB+LXubyZ8p6QZtelarIenM=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GNOc/XCKfhpYI3uwjBDZafxD2DI=
+		8CNgXclYpcFu+z+WVLr4jTnRbK4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,14 +88,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RRIsv1K8wdetEefNo1uvkOh1jQTaKwEBvG5Tc6Ea08w=
+			Fz6pBKjUlLrQ8eA3oPYllVUC9fQOXsB7pFLT0Yqo2F8=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			51s+35vu/73Xu20lOTTXLNL+uIcjoRZZ4nHHjccguAk=
+			ZsEffpaOWuYA4JouCOSzMVkHlCja3rDyLoA3OkZzgvY=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -109,28 +109,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			51s+35vu/73Xu20lOTTXLNL+uIcjoRZZ4nHHjccguAk=
+			ZsEffpaOWuYA4JouCOSzMVkHlCja3rDyLoA3OkZzgvY=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M0lcgvm23RrPKmDAl69/JfOVUNX3qBq2c4CN5YD7v4A=
+			uKyAiiqprEJZQIHU1rS6th+JY2LUvJbE7N94ACAninw=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pjDN/7TzGevG1PMcAB9Uk923OxsRRI6PGC7JZLf4gxM=
+			TnHTnHxSWem/wlU7uYMY8FXo0Hy0r4jWRYyzKJlU71w=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FQ92ykuJOawkH3JWkQhE0X3Its5xfPuueNic5Ev6r5Y=
+			k3bGXXloxGtOVhTdh3sjOlEwcYcKRI7U12k7evjuwxI=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -144,14 +144,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FQ92ykuJOawkH3JWkQhE0X3Its5xfPuueNic5Ev6r5Y=
+			k3bGXXloxGtOVhTdh3sjOlEwcYcKRI7U12k7evjuwxI=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rO4bp4VVXjNG756H47KF3XGoqQEdbwOj0z+KGdaCYPk=
+			sKHeXgQuSLugGH2vCxJgE+4sCCjOMkjv5FsCNMw/dfs=
 			</data>
 		</dict>
 	</dict>

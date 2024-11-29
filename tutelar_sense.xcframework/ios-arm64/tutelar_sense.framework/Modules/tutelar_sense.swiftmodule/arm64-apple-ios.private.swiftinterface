@@ -51,7 +51,7 @@ public class Sense {
   public func getScreen() -> Swift.Dictionary<Swift.String, Any>
   public func getMedia() -> Swift.Dictionary<Swift.String, Any>
   public func getBattery() -> Swift.Dictionary<Swift.String, Any>
-  public func getDetection() -> Swift.Dictionary<Swift.String, Any>
+  public func getDetection(data: Any) -> Swift.Dictionary<Swift.String, Any>
   @objc deinit
 }
 public class SenseConfig {

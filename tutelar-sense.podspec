@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'tutelar-sense'
-  s.version      = '0.0.4'
+  s.version      = '0.0.5'
   s.summary      = 'Sense iOS SDK'
   s.description  = <<-DESC
                     Senes iOS SDK - Prevent illegal bot activity. Filter the good from the bad visitors, with precision
