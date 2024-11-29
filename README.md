@@ -55,3 +55,16 @@ You have to add this permission in Info.plist.
 <key>NSLocationWhenInUseUsageDescription</key>
 <string>Require to get user location</string>
 ```
+
+### Step 6 - If you need to know Installed Applications in our SDK(installedapps key), kindly update your Info.plist with below. You can add the apps that you need to check whether it's installed or not in below code snippet(string in array element) using Sense SDK. (If you didn't want isntalledApps, don't need to update your Info.plist file).
+
+```
+<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>whatsapp</string>
+    <string>tez</string>
+    <string>phonepe</string>
+    <string>cred</string>
+    <string>amazon</string>
+</array>
+```
