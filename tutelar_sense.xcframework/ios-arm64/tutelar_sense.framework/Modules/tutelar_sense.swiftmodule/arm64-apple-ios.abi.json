@@ -1383,2018 +1383,1990 @@
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 6732,
+      "offset": 6734,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6805,
+      "kind": "StringLiteral",
+      "offset": 6833,
       "length": 5,
-      "value": "false"
+      "value": "\"Yes\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6863,
+      "kind": "StringLiteral",
+      "offset": 6867,
       "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6898,
-      "length": 5,
-      "value": "false"
+      "value": "\"No\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 7088,
+      "offset": 7033,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 7093,
+      "offset": 7038,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 7154,
+      "offset": 7099,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 7161,
+      "offset": 7106,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7257,
+      "offset": 7202,
       "length": 13,
       "value": "\"totalMemory\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7273,
+      "offset": 7218,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7288,
+      "offset": 7233,
       "length": 2,
       "value": "\" mb\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7302,
+      "offset": 7247,
       "length": 17,
       "value": "\"availableMemory\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7322,
+      "offset": 7267,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7341,
+      "offset": 7286,
       "length": 2,
       "value": "\" mb\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7355,
+      "offset": 7300,
       "length": 12,
       "value": "\"usedMemory\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7370,
+      "offset": 7315,
       "length": 18,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7384,
+      "offset": 7329,
       "length": 2,
       "value": "\" mb\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7560,
+      "offset": 7505,
       "length": 14,
       "value": "\"Device model\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7577,
+      "offset": 7522,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7593,
+      "offset": 7538,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7604,
+      "offset": 7549,
       "length": 13,
       "value": "\"System name\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7620,
+      "offset": 7565,
       "length": 22,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7641,
+      "offset": 7586,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7652,
+      "offset": 7597,
       "length": 16,
       "value": "\"System version\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7671,
+      "offset": 7616,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 7695,
+      "offset": 7640,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 7868,
+      "offset": 7813,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 8013,
+      "offset": 7958,
       "length": 48,
       "value": "\"The total disk space on this device is unknown\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 8296,
+      "offset": 8241,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 8374,
+      "offset": 8319,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 8619,
+      "offset": 8564,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 8697,
+      "offset": 8642,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 12079,
+      "offset": 12024,
       "length": 7,
-      "value": "\"Count\""
+      "value": "\"count\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 12088,
+      "offset": 12033,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 12120,
+      "offset": 12065,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 12391,
+      "offset": 12336,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 12417,
+      "offset": 12362,
       "length": 24,
       "value": "\"sim\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 12431,
+      "offset": 12376,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 12433,
+      "offset": 12378,
       "length": 7,
       "value": "\"Present\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 12498,
+      "offset": 12443,
       "length": 7,
-      "value": "\"Count\""
+      "value": "\"count\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 12879,
+      "offset": 12824,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 12958,
+      "offset": 12903,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 13008,
+      "offset": 12953,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 13052,
+      "offset": 12997,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 13279,
+      "offset": 13224,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 13424,
+      "offset": 13369,
       "length": 47,
       "value": "\"The free disk space on this device is unknown\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 13610,
+      "offset": 13555,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 13755,
+      "offset": 13700,
       "length": 47,
       "value": "\"The used disk space on this device is unknown\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "FloatLiteral",
-      "offset": 13923,
+      "offset": 13868,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 13943,
+      "offset": 13888,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "FloatLiteral",
-      "offset": 13993,
+      "offset": 13938,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 14013,
+      "offset": 13958,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "FloatLiteral",
-      "offset": 14050,
+      "offset": 13995,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 14070,
+      "offset": 14015,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 14132,
+      "offset": 14077,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14293,
+      "offset": 14238,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14314,
+      "offset": 14259,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14428,
+      "offset": 14373,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14479,
+      "offset": 14424,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 14523,
+      "offset": 14468,
       "length": 10,
       "value": "\"isMobile\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14536,
+      "offset": 14481,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 14551,
+      "offset": 14496,
       "length": 11,
       "value": "\"isSmartTV\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14565,
+      "offset": 14510,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 14580,
+      "offset": 14525,
       "length": 10,
       "value": "\"isTablet\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14593,
+      "offset": 14538,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 14608,
+      "offset": 14553,
       "length": 8,
       "value": "\"isiPad\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 14633,
+      "offset": 14578,
       "length": 10,
       "value": "\"isiPhone\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 14804,
+      "offset": 14749,
       "length": 20,
       "value": "\"Test for JailBreak\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 14877,
+      "offset": 14822,
       "length": 32,
       "value": "\"\/private\/jailBreakTestText.txt\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14922,
+      "offset": 14867,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 14974,
+      "offset": 14919,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 15008,
+      "offset": 14953,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 15195,
+      "offset": 15140,
       "length": 3,
       "value": "132"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 15201,
+      "offset": 15146,
       "length": 3,
       "value": "163"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 15435,
+      "offset": 15380,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 15454,
+      "offset": 15399,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 15494,
+      "offset": 15439,
       "length": 7,
       "value": "\"%0.1f\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 15874,
+      "offset": 15819,
       "length": 25,
       "value": "\"\/Applications\/Cydia.app\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 15943,
+      "offset": 15888,
       "length": 48,
       "value": "\"\/Library\/MobileSubstrate\/MobileSubstrate.dylib\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 16035,
+      "offset": 15980,
       "length": 11,
       "value": "\"\/bin\/bash\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 16090,
+      "offset": 16035,
       "length": 16,
       "value": "\"\/usr\/sbin\/sshd\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 16150,
+      "offset": 16095,
       "length": 10,
       "value": "\"\/etc\/apt\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 16179,
+      "offset": 16124,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 16260,
+      "offset": 16205,
       "length": 16,
       "value": "\"Jailbreak Test\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 16326,
+      "offset": 16271,
       "length": 24,
       "value": "\"\/private\/jailbreak.txt\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 16364,
+      "offset": 16309,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 16453,
+      "offset": 16398,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 16487,
+      "offset": 16432,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 16724,
+      "offset": 16669,
       "length": 68,
       "value": "[\"frida\", \"gadget\", \"agent\", \"libinjector\", \"cynject\", \"libcycript\"]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 16811,
+      "offset": 16756,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 17088,
+      "offset": 17033,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 17152,
+      "offset": 17097,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 17237,
+      "offset": 17182,
       "length": 14,
       "value": "[27042, 27043]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 17291,
+      "offset": 17236,
       "length": 11,
       "value": "\"127.0.0.1\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 17441,
+      "offset": 17386,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 17505,
+      "offset": 17450,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 17640,
+      "offset": 17585,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 17908,
+      "offset": 17853,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 17963,
+      "offset": 17908,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 18000,
+      "offset": 17945,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 18074,
+      "offset": 18019,
       "length": 46,
       "value": "[\"_frida_get_api_version\", \"frida_agent_main\"]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 18217,
+      "offset": 18162,
       "length": 2,
       "value": "-2"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 18258,
+      "offset": 18203,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 18290,
+      "offset": 18235,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 18872,
+      "offset": 18817,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 18961,
+      "offset": 18906,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 19200,
+      "offset": 19145,
       "length": 20,
       "value": "\"DTProvisioningTime\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 19377,
+      "offset": 19322,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 19480,
+      "offset": 19425,
       "length": 59,
       "value": "\"Approximate Factory Reset Time: \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 19538,
+      "offset": 19483,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 19844,
+      "offset": 20233,
       "length": 17,
       "value": "\"firstLaunchDate\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 21046,
+      "offset": 21435,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 21168,
+      "offset": 21557,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 21495,
+      "offset": 21884,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 21614,
-      "length": 7,
-      "value": "\"isVpn\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21623,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 21638,
+      "offset": 22099,
       "length": 11,
-      "value": "\"publicVPN\""
+      "value": "\"auxiliary\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 21651,
+      "offset": 22113,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 21666,
-      "length": 18,
-      "value": "\"timezoneMismatch\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21686,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 21840,
+      "offset": 22267,
       "length": 12,
       "value": "\"__SCOPED__\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 21921,
+      "offset": 22348,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 21951,
+      "offset": 22378,
       "length": 5,
       "value": "\"tap\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 21974,
+      "offset": 22401,
       "length": 5,
       "value": "\"tun\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 21997,
+      "offset": 22424,
       "length": 5,
       "value": "\"ppp\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 22020,
+      "offset": 22447,
       "length": 7,
       "value": "\"ipsec\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 22045,
+      "offset": 22472,
       "length": 6,
       "value": "\"utun\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 22075,
-      "length": 7,
-      "value": "\"isVpn\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "BooleanLiteral",
-      "offset": 22086,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 22110,
+      "offset": 22629,
       "length": 11,
-      "value": "\"publicVPN\""
+      "value": "\"auxiliary\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 22125,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 22149,
-      "length": 18,
-      "value": "\"timezoneMismatch\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
-      "kind": "BooleanLiteral",
-      "offset": 22171,
+      "offset": 22644,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 22381,
+      "offset": 22854,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 22400,
+      "offset": 22873,
       "length": 12,
       "value": "\"hw.machine\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 22431,
+      "offset": 22904,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 22476,
+      "offset": 22949,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 22514,
+      "offset": 22987,
       "length": 12,
       "value": "\"hw.machine\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 22550,
+      "offset": 23023,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 23182,
+      "offset": 23655,
       "length": 16,
       "value": "\"www.google.com\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 23394,
+      "offset": 23867,
       "length": 10,
       "value": "\"Cellular\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 23441,
+      "offset": 23914,
       "length": 6,
       "value": "\"WiFi\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 23486,
+      "offset": 23959,
       "length": 12,
       "value": "\"No Network\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 23665,
+      "offset": 24138,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 23847,
+      "offset": 24320,
       "length": 8,
       "value": "\"%02hhx\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 24026,
+      "offset": 24499,
       "length": 13,
       "value": "\"public.data\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 24442,
+      "offset": 24915,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 24526,
+      "offset": 24999,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 24894,
+      "offset": 25367,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 25014,
+      "offset": 25487,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 25463,
+      "offset": 25936,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 25549,
+      "offset": 26022,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 25754,
+      "offset": 26227,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 25851,
+      "offset": 26324,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 25909,
+      "offset": 26382,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 26020,
+      "offset": 26493,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "FloatLiteral",
-      "offset": 26339,
+      "offset": 26812,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 26647,
+      "offset": 27120,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 26674,
+      "offset": 27147,
       "length": 12,
       "value": "\"hw.cputype\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 26710,
+      "offset": 27183,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 26716,
+      "offset": 27189,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 26798,
+      "offset": 27271,
       "length": 5,
       "value": "\"ARM\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 26859,
+      "offset": 27332,
       "length": 7,
       "value": "\"ARM64\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 26920,
+      "offset": 27393,
       "length": 5,
       "value": "\"x86\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 26982,
+      "offset": 27455,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 27442,
+      "offset": 27915,
       "length": 10,
       "value": "\"Portrait\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 27498,
+      "offset": 27971,
       "length": 22,
       "value": "\"Portrait Upside Down\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 27561,
+      "offset": 28034,
       "length": 16,
       "value": "\"Landscape Left\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 27619,
+      "offset": 28092,
       "length": 17,
       "value": "\"Landscape Right\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 27670,
+      "offset": 28143,
       "length": 9,
       "value": "\"Face Up\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 27715,
+      "offset": 28188,
       "length": 11,
       "value": "\"Face Down\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 27818,
+      "offset": 28291,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 28052,
+      "offset": 28525,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 28140,
+      "offset": 28613,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Dictionary",
-      "offset": 28307,
+      "offset": 28780,
       "length": 2204,
       "value": "[(\"iPhone1,1\", 0.412), (\"iPhone1,2\", 0.412), (\"iPhone2,1\", 0.600), (\"iPhone3,1\", 0.800), (\"iPhone3,2\", 0.800), (\"iPhone3,3\", 0.800), (\"iPhone4,1\", 0.800), (\"iPhone5,1\", 1.3), (\"iPhone5,2\", 1.3), (\"iPhone5,3\", 1.3), (\"iPhone5,4\", 1.3), (\"iPhone6,1\", 1.3), (\"iPhone6,2\", 1.3), (\"iPhone7,2\", 1.4), (\"iPhone7,1\", 1.4), (\"iPhone8,1\", 1.85), (\"iPhone8,2\", 1.85), (\"iPhone8,4\", 1.85), (\"iPhone9,1\", 2.34), (\"iPhone9,3\", 2.34), (\"iPhone9,2\", 2.34), (\"iPhone9,4\", 2.34), (\"iPhone10,1\", 2.39), (\"iPhone10,4\", 2.39), (\"iPhone10,2\", 2.39), (\"iPhone10,5\", 2.39), (\"iPhone10,3\", 2.39), (\"iPhone10,6\", 2.39), (\"iPhone11,2\", 2.49), (\"iPhone11,4\", 2.49), (\"iPhone11,6\", 2.49), (\"iPhone11,8\", 2.49), (\"iPhone12,1\", 2.65), (\"iPhone12,3\", 2.65), (\"iPhone12,5\", 2.65), (\"iPhone12,8\", 2.65), (\"iPhone13,1\", 3.1), (\"iPhone13,2\", 3.1), (\"iPhone13,3\", 3.1), (\"iPhone13,4\", 3.1), (\"iPhone14,4\", 3.1), (\"iPhone14,5\", 3.1), (\"iPhone14,2\", 3.1), (\"iPhone14,3\", 3.1), (\"iPhone14,6\", 3.22), (\"iPhone14,7\", 3.46), (\"iPhone14,8\", 3.46), (\"iPhone15,2\", 3.46), (\"iPhone15,3\", 3.46)]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 30701,
+      "offset": 31174,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 31069,
+      "offset": 31542,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 31102,
+      "offset": 31575,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 31809,
+      "offset": 32282,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 31829,
+      "offset": 32302,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 31851,
+      "offset": 32324,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 31963,
+      "offset": 32436,
       "length": 9,
       "value": "1000000"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 32344,
+      "offset": 32817,
       "length": 14,
       "value": "\"lastBootTime\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 32408,
+      "offset": 32881,
       "length": 14,
       "value": "\"lastBootTime\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 32424,
+      "offset": 32897,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 32578,
+      "offset": 33051,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 32582,
+      "offset": 33055,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 32608,
+      "offset": 33081,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 32621,
+      "offset": 33094,
       "length": 1,
       "value": "\"-\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 32631,
+      "offset": 33104,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 33194,
+      "offset": 33667,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 33224,
+      "offset": 33697,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33227,
+      "offset": 33700,
       "length": 15,
       "value": "\"sysctl failed\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 33296,
+      "offset": 33769,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 33834,
+      "offset": 34307,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 34028,
+      "offset": 34501,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34503,
+      "offset": 34976,
       "length": 5,
       "value": "\"en0\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34520,
+      "offset": 34993,
       "length": 9,
       "value": "\"pdp_ip0\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 34647,
+      "offset": 35120,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 34919,
+      "offset": 35392,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 34941,
+      "offset": 35414,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 35400,
+      "offset": 35873,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 35492,
+      "offset": 35965,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Dictionary",
-      "offset": 36034,
+      "offset": 36507,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36060,
+      "offset": 36533,
       "length": 12,
       "value": "\"identifier\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36171,
+      "offset": 36644,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36185,
+      "offset": 36658,
       "length": 9,
       "value": "\"Unknown\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36212,
+      "offset": 36685,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36248,
+      "offset": 36721,
       "length": 16,
       "value": "\"secondsFromGMT\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36318,
+      "offset": 36791,
       "length": 14,
       "value": "\"abbreviation\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36370,
+      "offset": 36843,
       "length": 5,
       "value": "\"N\/A\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36627,
+      "offset": 37100,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 36661,
+      "offset": 37134,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 36723,
+      "offset": 37196,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 36975,
+      "offset": 37458,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 37118,
+      "offset": 37601,
       "length": 68,
       "value": "\"https:\/\/strctlsense.tutelar.io\/api\/v1\/sense\/packages-list?type=ios\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 37245,
+      "offset": 37697,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 37331,
+      "offset": 37783,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 37371,
+      "offset": 37823,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 37408,
+      "offset": 37860,
       "length": 5,
       "value": "\"sdk\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 37435,
+      "offset": 37887,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 37656,
+      "offset": 38108,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 37759,
+      "offset": 38242,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 37886,
+      "offset": 38369,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 37945,
+      "offset": 38428,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 38075,
+      "offset": 38558,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 38181,
+      "offset": 38664,
       "length": 14,
       "value": "\"package_name\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 38221,
+      "offset": 38704,
       "length": 14,
       "value": "\"package_code\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 38550,
+      "offset": 39033,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 38902,
+      "offset": 39385,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Array",
-      "offset": 39034,
+      "offset": 39517,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "Dictionary",
-      "offset": 39240,
+      "offset": 39723,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39330,
+      "offset": 39813,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39345,
+      "offset": 39828,
       "length": 1,
       "value": "\":\/\/\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 39425,
+      "offset": 39908,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 39481,
+      "offset": 39964,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39681,
+      "offset": 40161,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39694,
+      "offset": 40174,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39714,
+      "offset": 40194,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39728,
+      "offset": 40208,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39748,
+      "offset": 40228,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39760,
+      "offset": 40240,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39780,
+      "offset": 40260,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39791,
+      "offset": 40271,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39811,
+      "offset": 40291,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39819,
+      "offset": 40299,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39839,
+      "offset": 40319,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39849,
+      "offset": 40329,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39869,
+      "offset": 40349,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39884,
+      "offset": 40364,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 39972,
+      "offset": 40452,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40027,
+      "offset": 40507,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40051,
+      "offset": 40531,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40108,
+      "offset": 40588,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40132,
+      "offset": 40612,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40186,
+      "offset": 40666,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40307,
+      "offset": 40787,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40328,
+      "offset": 40808,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40342,
+      "offset": 40822,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40378,
+      "offset": 40858,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40396,
+      "offset": 40876,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40407,
+      "offset": 40887,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40443,
+      "offset": 40923,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40463,
+      "offset": 40943,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40476,
+      "offset": 40956,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40512,
+      "offset": 40992,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40537,
+      "offset": 41017,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40555,
+      "offset": 41035,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40616,
+      "offset": 41096,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40629,
+      "offset": 41109,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40665,
+      "offset": 41145,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40675,
+      "offset": 41155,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40711,
+      "offset": 41191,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40723,
+      "offset": 41203,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40759,
+      "offset": 41239,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 40776,
+      "offset": 41256,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42184,
+      "offset": 42664,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42240,
+      "offset": 42720,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42308,
+      "offset": 42788,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42377,
+      "offset": 42857,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42565,
+      "offset": 43045,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42669,
+      "offset": 43149,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42729,
+      "offset": 43209,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42783,
+      "offset": 43263,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 42841,
+      "offset": 43321,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 43186,
+      "offset": 43703,
       "length": 34,
       "value": "\"com.Tutelar-Demo-Sample.uniqueid\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 43250,
-      "length": 20,
-      "value": "\"tutSenseIdentifier\""
+      "offset": 43790,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 43511,
+      "offset": 44702,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 45422,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 45846,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
+      "kind": "IntegerLiteral",
+      "offset": 46111,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
+      "kind": "BooleanLiteral",
+      "offset": 46134,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/DeviceDetails.swift",
+      "kind": "BooleanLiteral",
+      "offset": 46377,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
@@ -3434,1029 +3406,1050 @@
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "IntegerLiteral",
-      "offset": 1709,
+      "offset": 1717,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 1831,
+      "offset": 1847,
       "length": 57,
       "value": "\"https:\/\/strctlsense.tutelar.io\/api\/v1\/sense\/signals\/sdk\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2050,
+      "offset": 2077,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2177,
+      "offset": 2224,
       "length": 5,
       "value": "\"str\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2205,
+      "offset": 2256,
       "length": 9,
       "value": "\"version\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2216,
+      "offset": 2267,
       "length": 7,
-      "value": "\"0.0.5\""
+      "value": "\"0.0.6\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2245,
+      "offset": 2300,
       "length": 6,
       "value": "\"zone\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2279,
+      "offset": 2338,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2336,
+      "offset": 2399,
       "length": 10,
       "value": "\"timezone\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2386,
+      "offset": 2453,
       "length": 17,
       "value": "\"timezoneCountry\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2435,
+      "offset": 2502,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2481,
+      "offset": 2556,
       "length": 8,
       "value": "\"device\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2545,
+      "offset": 2624,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2603,
+      "offset": 2686,
       "length": 10,
       "value": "\"location\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2665,
+      "offset": 2752,
       "length": 8,
       "value": "\"screen\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2723,
+      "offset": 2814,
       "length": 7,
       "value": "\"media\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2779,
+      "offset": 2874,
       "length": 9,
       "value": "\"battery\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2839,
+      "offset": 2938,
       "length": 11,
       "value": "\"detection\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2914,
+      "offset": 3017,
       "length": 20,
       "value": "\"tutSenseIdentifier\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 2984,
+      "offset": 3113,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3041,
+      "offset": 3179,
       "length": 8,
       "value": "\"apiKey\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3074,
+      "offset": 3212,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3094,
+      "offset": 3236,
       "length": 11,
       "value": "\"senseInfo\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "BooleanLiteral",
-      "offset": 3133,
+      "offset": 3275,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3233,
+      "offset": 3441,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3269,
+      "offset": 3481,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3309,
+      "offset": 3521,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3354,
+      "offset": 3570,
       "length": 5,
       "value": "\"sdk\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3381,
+      "offset": 3597,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
+      "kind": "StringLiteral",
+      "offset": 3674,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
+      "kind": "StringLiteral",
+      "offset": 3698,
+      "length": 22,
+      "value": "\"x-package-identifier\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "Array",
-      "offset": 3522,
+      "offset": 3859,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 3615,
+      "offset": 3964,
       "length": 26,
       "value": "\"Failed to serialize JSON\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 4190,
+      "offset": 4591,
       "length": 47,
       "value": "\"Request failed: \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 4236,
+      "offset": 4637,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 4432,
+      "offset": 4853,
       "length": 30,
       "value": "\"Invalid response from server\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "IntegerLiteral",
-      "offset": 4572,
+      "offset": 5009,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "Array",
-      "offset": 4707,
+      "offset": 5152,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 4777,
+      "offset": 5226,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 4859,
+      "offset": 5312,
       "length": 24,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 4882,
+      "offset": 5335,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 4972,
+      "offset": 5433,
       "length": 71,
       "value": "\"Unexpected error from server. Status code: \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 5042,
+      "offset": 5503,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 5700,
+      "offset": 6217,
       "length": 18,
       "value": "\"No data received\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "Array",
-      "offset": 5938,
+      "offset": 6479,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 6006,
+      "offset": 6551,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 6081,
+      "offset": 6630,
       "length": 10,
       "value": "\"sense_id\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 6298,
+      "offset": 6765,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "Array",
-      "offset": 6492,
+      "offset": 7129,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 6580,
+      "offset": 7221,
       "length": 4,
       "value": "\"{}\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 6806,
+      "offset": 7463,
       "length": 38,
       "value": "\"Failed to parse 'data' from response\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 6948,
+      "offset": 7617,
       "length": 51,
       "value": "\"Error parsing JSON: \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 6998,
+      "offset": 7667,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7297,
+      "offset": 8022,
       "length": 10,
       "value": "\"deviceId\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7422,
+      "offset": 8147,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7470,
+      "offset": 8195,
       "length": 14,
       "value": "\"isRealDevice\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7526,
+      "offset": 8251,
       "length": 14,
       "value": "\"touchSupport\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "BooleanLiteral",
-      "offset": 7543,
+      "offset": 8268,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7565,
+      "offset": 8290,
       "length": 14,
       "value": "\"deviceMemory\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7582,
+      "offset": 8307,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "IntegerLiteral",
-      "offset": 7625,
+      "offset": 8350,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "IntegerLiteral",
-      "offset": 7630,
+      "offset": 8355,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7636,
+      "offset": 8361,
       "length": 2,
       "value": "\" mb\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7658,
+      "offset": 8383,
       "length": 4,
       "value": "\"os\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7685,
+      "offset": 8410,
       "length": 26,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7710,
+      "offset": 8435,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7729,
+      "offset": 8454,
       "length": 13,
       "value": "\"deviceTypes\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7766,
+      "offset": 8491,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7786,
+      "offset": 8511,
       "length": 7,
       "value": "\"board\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7796,
+      "offset": 8521,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7821,
+      "offset": 8546,
       "length": 7,
       "value": "\"brand\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7830,
+      "offset": 8555,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7856,
+      "offset": 8581,
       "length": 14,
       "value": "\"manufacturer\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7873,
+      "offset": 8598,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7898,
+      "offset": 8623,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7937,
+      "offset": 8662,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7946,
+      "offset": 8671,
       "length": 6,
       "value": "\"user\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 7970,
+      "offset": 8695,
       "length": 16,
       "value": "\"localIpAddress\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8021,
+      "offset": 8746,
       "length": 13,
       "value": "\"dataEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8070,
+      "offset": 8795,
       "length": 13,
       "value": "\"networkType\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8120,
+      "offset": 8845,
       "length": 13,
       "value": "\"dataRoaming\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8176,
+      "offset": 8901,
       "length": 19,
       "value": "\"memoryInformation\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8217,
+      "offset": 8942,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8237,
+      "offset": 8962,
       "length": 15,
       "value": "\"kernelVersion\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8291,
+      "offset": 9016,
       "length": 13,
       "value": "\"countryInfo\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8327,
+      "offset": 9052,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8347,
+      "offset": 9072,
       "length": 15,
       "value": "\"systemStorage\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8366,
+      "offset": 9091,
       "length": 7,
       "value": "\"total\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8392,
+      "offset": 9117,
       "length": 6,
       "value": "\"used\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8416,
+      "offset": 9141,
       "length": 6,
       "value": "\"free\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8458,
+      "offset": 9183,
       "length": 20,
       "value": "\"deviceArchitecture\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8508,
+      "offset": 9233,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8528,
+      "offset": 9253,
       "length": 12,
       "value": "\"kernelName\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8562,
+      "offset": 9287,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8582,
+      "offset": 9307,
       "length": 15,
       "value": "\"networkConfig\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8643,
+      "offset": 9368,
       "length": 18,
       "value": "\"biometricEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8703,
+      "offset": 9428,
       "length": 17,
       "value": "\"passcodeEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8760,
+      "offset": 9485,
       "length": 14,
       "value": "\"isAudioMuted\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8875,
+      "offset": 9600,
       "length": 10,
       "value": "\"cpuCount\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8919,
+      "offset": 9644,
       "length": 9,
       "value": "\"cpuType\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8947,
+      "offset": 9672,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 8967,
+      "offset": 9692,
       "length": 10,
       "value": "\"isOnCall\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9008,
+      "offset": 9733,
       "length": 11,
       "value": "\"appCloner\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9053,
+      "offset": 9778,
       "length": 10,
       "value": "\"cpuSpeed\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9083,
+      "offset": 9808,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9103,
+      "offset": 9828,
       "length": 20,
       "value": "\"usbDebuggingStatus\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9164,
+      "offset": 9889,
       "length": 12,
       "value": "\"deviceADID\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9198,
+      "offset": 9923,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9218,
+      "offset": 9943,
       "length": 16,
       "value": "\"cloudContainer\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9283,
+      "offset": 10008,
       "length": 14,
       "value": "\"systemUptime\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9335,
+      "offset": 10060,
       "length": 15,
       "value": "\"isiOSAppOnMac\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9393,
+      "offset": 10118,
       "length": 17,
       "value": "\"proximitySensor\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9458,
+      "offset": 10183,
       "length": 14,
       "value": "\"lastBootTime\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9509,
+      "offset": 10234,
       "length": 11,
       "value": "\"sessionID\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9551,
+      "offset": 10276,
       "length": 16,
       "value": "\"accessaryCount\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9603,
+      "offset": 10328,
       "length": 25,
       "value": "\"isMultitaskingSupported\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9688,
+      "offset": 10413,
       "length": 22,
       "value": "\"accessibilityEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9764,
+      "offset": 10489,
       "length": 22,
       "value": "\"developerModeEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9830,
+      "offset": 10555,
       "length": 12,
       "value": "\"deviceHash\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 9906,
+      "offset": 10631,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10041,
+      "offset": 10651,
+      "length": 21,
+      "value": "\"screenBeingMirrored\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
+      "kind": "StringLiteral",
+      "offset": 10856,
       "length": 10,
       "value": "\"location\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10075,
+      "offset": 10890,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10372,
+      "offset": 11187,
       "length": 18,
       "value": "\"screenBrightness\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10435,
+      "offset": 11257,
       "length": 19,
       "value": "\"displayResolution\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10456,
+      "offset": 11278,
       "length": 34,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10471,
+      "offset": 11293,
       "length": 1,
       "value": "\" x \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10489,
+      "offset": 11311,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10508,
+      "offset": 11330,
       "length": 12,
       "value": "\"colorDepth\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10562,
+      "offset": 11384,
       "length": 13,
       "value": "\"screenWidth\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10607,
+      "offset": 11429,
       "length": 14,
       "value": "\"screenHeight\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10654,
+      "offset": 11476,
       "length": 18,
       "value": "\"ScreenPixelRatio\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10698,
+      "offset": 11520,
       "length": 12,
       "value": "\"screenSize\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10729,
+      "offset": 11551,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10749,
+      "offset": 11571,
       "length": 19,
       "value": "\"screenOrientation\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10915,
+      "offset": 11737,
       "length": 15,
       "value": "\"audioHardware\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "Dictionary",
-      "offset": 10933,
+      "offset": 11755,
       "length": 21,
       "value": "[(\"hasSpeakers\", true)]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 10972,
+      "offset": 11794,
       "length": 20,
       "value": "\"microPhoneHardware\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "Dictionary",
-      "offset": 10995,
+      "offset": 11817,
       "length": 24,
       "value": "[(\"hasMicrophone\", true)]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11037,
+      "offset": 11859,
       "length": 15,
       "value": "\"videoHardware\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "Dictionary",
-      "offset": 11055,
+      "offset": 11877,
       "length": 20,
       "value": "[(\"hasWebCam\", true)]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11209,
+      "offset": 12031,
       "length": 20,
       "value": "\"batteryTemperature\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11278,
+      "offset": 12100,
       "length": 16,
       "value": "\"deviceCharging\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11327,
+      "offset": 12149,
       "length": 14,
       "value": "\"batteryLevel\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11505,
+      "offset": 12327,
       "length": 9,
       "value": "\"isFrida\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11551,
+      "offset": 12373,
       "length": 14,
       "value": "\"isJailbroken\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11600,
+      "offset": 12422,
       "length": 13,
       "value": "\"isSimulator\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11786,
+      "offset": 12476,
       "length": 5,
       "value": "\"sim\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11825,
+      "offset": 12515,
       "length": 5,
       "value": "\"vpn\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Tutelar-Sense\/iOS_Sense_SDK_Source_Code\/ios_sense_sdk\/tutelar-sense\/Tutelar_Sense.swift",
       "kind": "StringLiteral",
-      "offset": 11866,
+      "offset": 12556,
       "length": 15,
       "value": "\"installedApps\""
     }

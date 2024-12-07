@@ -8,7 +8,7 @@ Sense is a device intelligence and identification tool. This tool collects a com
 
 ### Step 1 - Installation
 ```
-pod 'tutelar-sense', '~> 0.0.5'
+pod 'tutelar-sense', '~> 0.0.6'
 pod update
 ```
 ### Step 2 - Import SDK
@@ -56,7 +56,7 @@ You have to add this permission in Info.plist.
 <string>Require to get user location</string>
 ```
 
-### Step 6 - If you need to know Installed Applications in our SDK(installedapps key), kindly update your Info.plist with below. You can add the apps that you need to check whether it's installed or not in below code snippet(string in array element) using Sense SDK. (If you didn't want isntalledApps, don't need to update your Info.plist file).
+### Step 6 - If you need to know Installed Applications in our SDK, kindly update your Info.plist like below. You can add those apps that you need to check whether it's installed or not.
 
 ```
 <key>LSApplicationQueriesSchemes</key>
