@@ -15,6 +15,7 @@ import CoreLocation
 import CoreTelephony
 import CryptoKit
 import Darwin
+import DeviceActivity
 import ExternalAccessory
 import Foundation
 import LocalAuthentication
@@ -35,28 +36,31 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 @_exported import tutelar_sense
 public func screenSize() -> Swift.String?
+public var senseConfig: tutelar_sense.SenseConfig?
 @objc public protocol SenseDelegate {
   @objc func onFailure(message: Swift.String)
   @objc func onSuccess(data: Swift.String)
 }
-public class Sense {
-  public init()
+@objc @_inheritsConvenienceInitializers public class Sense : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  public func initializeLocationManager()
   public static func initSDK(senseConfig: tutelar_sense.SenseConfig?, withDelegate: (any tutelar_sense.SenseDelegate)?)
   public static func getSenseDetails(withDelegate: (any tutelar_sense.SenseDelegate)?)
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class DeviceDetail {
   public func getDeviceDetail() -> Swift.Dictionary<Swift.String, Any>
-  public func getLocation() -> Swift.Dictionary<Swift.String, Any>
   public func getScreen() -> Swift.Dictionary<Swift.String, Any>
   public func getMedia() -> Swift.Dictionary<Swift.String, Any>
   public func getBattery() -> Swift.Dictionary<Swift.String, Any>
   public func getDetection(data: Any) -> Swift.Dictionary<Swift.String, Any>
+  public func getConnection(networkType: Any) -> Swift.Dictionary<Swift.String, Any>
   @objc deinit
 }
 public class SenseConfig {
   public var apiKey: Swift.String?
   public var senseInfo: Swift.Bool?
+  public var allowGeoLocation: Swift.Bool?
   public init()
   @objc deinit
 }

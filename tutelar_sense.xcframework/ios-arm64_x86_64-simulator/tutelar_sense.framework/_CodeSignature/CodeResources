@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/tutelar_sense-Swift.h</key>
 		<data>
-		VUDnGjeoL3p2tOpNk4UdT5kOR/I=
+		SI8B6x41P7gSW7ZCZaR26gmXTuE=
 		</data>
 		<key>Headers/tutelar_sense.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		QdXkroYLr1wiaywRv/zNmoOiFck=
+		lGpd1AmyIsg1OEv/XT+KdJ5C4zk=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5Omqh1jhG/Rxo6EJvQLjRqOd1Mg=
+		cQEAZOIkiYd0lfAZ8IACNpgHqbY=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5Omqh1jhG/Rxo6EJvQLjRqOd1Mg=
+		cQEAZOIkiYd0lfAZ8IACNpgHqbY=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HLKtxG/f49Z0yGSSwKbGTwS45/0=
+		4BdQaTkBCSZCcBqqD9H1WIYeMV8=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FSHbQl2LZqkExofkS+AZHIvraTE=
+		9Nw4ggbu1gOdPY8771dH4B0Cdog=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		A7ksVB+LXubyZ8p6QZtelarIenM=
+		HGHwoRMEf1MPHOKIokQDSZVph2g=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		A7ksVB+LXubyZ8p6QZtelarIenM=
+		HGHwoRMEf1MPHOKIokQDSZVph2g=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UXhq19aBGZ15lUO80ClP/4i8B4g=
+		ImV6YZfcl2GiWyXtLinWSLaowWw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4RXtjrEXK/SlzVPrHjKNIcmygm7HQ+rASNOwWpH+F70=
+			jbMoR5uSqDLc9jGISzvRgdMEzNwLkjQtNmuOjLfr9tA=
 			</data>
 		</dict>
 		<key>Headers/tutelar_sense.h</key>
@@ -88,14 +88,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BtkBfwkADohZ2X0TSSaEhRFRJU0nKjIDXb3QbsEjHag=
+			4Z64+tbwMGsKoTMaXtcyXTW202dZRPVgMhGexOjrYEc=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZsEffpaOWuYA4JouCOSzMVkHlCja3rDyLoA3OkZzgvY=
+			yD9TSuE8n8ObeRaIAVb2sDTFfUllj+w8abOEbPCgAeE=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -109,28 +109,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZsEffpaOWuYA4JouCOSzMVkHlCja3rDyLoA3OkZzgvY=
+			yD9TSuE8n8ObeRaIAVb2sDTFfUllj+w8abOEbPCgAeE=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QbuJ2oTelu1KOIwQZHhk7wr1uxbWpUIlUbl5AxuO3Os=
+			PEDjMuabbieShVPWVtdbMpdKI6iOkG4ljUyUmv0G3LU=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xAWkaCcPIw+UFyi7Vtn2kOs2R7Lw9JOWbbhIOndMuG8=
+			KS92DG0KsQZJ/56VaiyTG0rEnS773jo6xYDuTW1x9b4=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k3bGXXloxGtOVhTdh3sjOlEwcYcKRI7U12k7evjuwxI=
+			yUYNL/rPzgzc4jIZJeCNrJEWFcV1juYgfj90lFEq5Pw=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -144,14 +144,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k3bGXXloxGtOVhTdh3sjOlEwcYcKRI7U12k7evjuwxI=
+			yUYNL/rPzgzc4jIZJeCNrJEWFcV1juYgfj90lFEq5Pw=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C6LYX3P9d8vwdbNLaDE6JE5J3nxaXrqXS0HMSVB8DSU=
+			1TmD4HSqWdo8rG+pIhGoLjzKHA8IGeScZz7LRjiyWes=
 			</data>
 		</dict>
 	</dict>

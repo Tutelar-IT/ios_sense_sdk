@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/tutelar_sense-Swift.h</key>
 		<data>
-		TrzmPD8AL510k5aMK79ca+CreTo=
+		E7yR2RJWQaIbaMpmf068dEIMALA=
 		</data>
 		<key>Headers/tutelar_sense.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		hRHL7jmFIxmwVd/r4H5lQ9xqCUc=
+		KKJ7PudBsDUs49A/lzsdwlJpwso=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		uwijRHWWUJmRB1pf2YjFmBxAvGM=
+		jorP6kZW1s8ma7S40H2j7Gq58hc=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		uwijRHWWUJmRB1pf2YjFmBxAvGM=
+		jorP6kZW1s8ma7S40H2j7Gq58hc=
 		</data>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		izIo8qnUcXXrz1aIqp2BrdFKMKs=
+		4aGiXyZt2sihWeD3F4VZl62Mbgw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iexv0PaU4gajTKgnOvXTjeubM6j5tzfFVJwBmYYyubc=
+			jRsVLEZS57sEDIhgd5+GWeq1qfE2FikR+P6QYIL282A=
 			</data>
 		</dict>
 		<key>Headers/tutelar_sense.h</key>
@@ -68,14 +68,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+hR0t1qIruNF0TjCvkMAqf6MMKzzBvhBbGeM9PuB00M=
+			ZeHjOktcRtlNRJ4RkekeDWtvrBoQyC3Wsn/TtNk5aBE=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mTDEAuXQ5KLBmp485pdskFFV0NVc6TpPZBUEhD9WOlc=
+			32qX8MJA5lNgyobVRNZtg4jGCBgfBKvUaxKRlO2deTk=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mTDEAuXQ5KLBmp485pdskFFV0NVc6TpPZBUEhD9WOlc=
+			32qX8MJA5lNgyobVRNZtg4jGCBgfBKvUaxKRlO2deTk=
 			</data>
 		</dict>
 		<key>Modules/tutelar_sense.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MtdE4KYGCmzoOog+xTVHTiZI8x4hsot15IdWQ84FGb0=
+			X349NAOXPZ9Kq/M/ztXBCWfpzlX2KqIQ6FrjBBdNb2Y=
 			</data>
 		</dict>
 	</dict>

@@ -8,7 +8,7 @@ Sense is a device intelligence and identification tool. This tool collects a com
 
 ### Step 1 - Installation
 ```
-pod 'tutelar-sense', '~> 0.0.6'
+pod 'tutelar-sense', '~> 0.0.7'
 pod update
 ```
 ### Step 2 - Import SDK
@@ -22,6 +22,7 @@ To initialize the SDK add the below line of code with the public key you retriev
         let senseConfig = SenseConfig()
         senseConfig.apiKey = "Your Unique Public API Key"
         senseConfig.senseInfo = false // true or false
+        senseConfig.allowGeoLocation = false // true or false
         Sense.initSDK(senseConfig: senseConfig, withDelegate: self)
     }
 
@@ -29,6 +30,8 @@ To initialize the SDK add the below line of code with the public key you retriev
 #### Sense Config Information
 
 If you pass senseInfo as true in above config means, it will return addtional Information like Request ID, First seen, Last seen, IP Address with SenseID. Otherwise it will return only SenseID and Request .
+
+If you pass allowGeoLocation as true in above config means, it will return Device Location Information in Sense Details via our Server API.
 
 
 ### Step 3 - Implement  Delegate Method
@@ -49,9 +52,13 @@ By call the following delegate to receive the device info shown below.
  Sense.getSenseDetails(withDelegate: self)
 ```
 ### Step 5 - Location Permission (optional)
-You have to add this permission in Info.plist.
+You have to add this permission in Info.plist to get Device Location Information.
 
 ```
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>This app needs access to your location to provide location-based services.</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>Location access is required for enhanced app functionality.</string>
 <key>NSLocationWhenInUseUsageDescription</key>
 <string>Require to get user location</string>
 ```
@@ -67,4 +74,5 @@ You have to add this permission in Info.plist.
     <string>cred</string>
     <string>amazon</string>
 </array>
+
 ```
