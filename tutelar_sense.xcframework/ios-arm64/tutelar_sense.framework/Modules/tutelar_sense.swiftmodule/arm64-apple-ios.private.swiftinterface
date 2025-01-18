@@ -61,6 +61,7 @@ public class SenseConfig {
   public var apiKey: Swift.String?
   public var senseInfo: Swift.Bool?
   public var allowGeoLocation: Swift.Bool?
+  public var tag: Swift.String?
   public init()
   @objc deinit
 }

@@ -8,7 +8,7 @@ Sense is a device intelligence and identification tool. This tool collects a com
 
 ### Step 1 - Installation
 ```
-pod 'tutelar-sense', '~> 0.0.7'
+pod 'tutelar-sense', '~> 0.0.8'
 pod update
 ```
 ### Step 2 - Import SDK
@@ -23,6 +23,7 @@ To initialize the SDK add the below line of code with the public key you retriev
         senseConfig.apiKey = "Your Unique Public API Key"
         senseConfig.senseInfo = false // true or false
         senseConfig.allowGeoLocation = false // true or false
+        senseConfig.tag = "" // String whatever you need like Home
         Sense.initSDK(senseConfig: senseConfig, withDelegate: self)
     }
 
